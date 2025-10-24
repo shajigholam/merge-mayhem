@@ -6,3 +6,5 @@
 4. Everyone merges individually
 5. Everyone rotates conflict resolution
 6. Visualize history & debrief
+
+Change by  Smit
