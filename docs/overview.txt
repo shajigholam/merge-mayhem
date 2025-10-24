@@ -1,1 +1,1 @@
-Team Project: Merge Practice
+This is our group work to practice solving merge conflicts
