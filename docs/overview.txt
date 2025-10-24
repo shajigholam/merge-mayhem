@@ -1,1 +1,1 @@
-This is our group work to practice solving merge conflicts
+This is our group work to practice solving merge conflict. Conflict solved by Smit.
